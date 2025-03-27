@@ -1,0 +1,5 @@
+package com.nimap.task.demo.controller;
+
+public class CategoryController {
+
+}

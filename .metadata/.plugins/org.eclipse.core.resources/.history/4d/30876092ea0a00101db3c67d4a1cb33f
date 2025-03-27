@@ -1,0 +1,5 @@
+package com.nimap.task.demo.service;
+
+public class CategoryService {
+
+}

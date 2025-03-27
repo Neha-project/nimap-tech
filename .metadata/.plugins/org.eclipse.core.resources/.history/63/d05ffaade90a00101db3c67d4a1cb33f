@@ -1,0 +1,5 @@
+package com.nimap.task.demo.repository;
+
+public interface CategoryRepository {
+
+}
